@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Selenium_Codes.OrangeHRM_Login">
+      <class name="Selenium_Codes.WebTable">
         <methods>
-          <include name="login"/>
+          <include name="table_Test"/>
         </methods>
-      </class> <!-- Selenium_Codes.OrangeHRM_Login -->
+      </class> <!-- Selenium_Codes.WebTable -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

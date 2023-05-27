@@ -12,6 +12,8 @@ driver=new chromeDriver();
 driver.manage().window().maximize();
 
 driver.get("http://www.google.co.in");
+
+system.out.println("Success");
 }
 
 }
